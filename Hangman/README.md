@@ -1,1 +1,2 @@
-# Pygame-Games
+# HangMan
+# How to play
