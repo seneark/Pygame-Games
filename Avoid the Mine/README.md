@@ -1,0 +1,1 @@
+# Text Avoids Mine
